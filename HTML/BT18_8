@@ -1,28 +1,21 @@
 <!DOCTYPE html>
 <html>
-<body>
+<body style="background-color:powderblue;">
 
-<h1>Tieu de 1</h1>
-<p>Dong.</p>
-<hr>
+<h1 style="text-align:center;">Centered Heading</h1>
+<p style="text-align:center;">Centered paragraph.</p>
 
-<h2>Tieu de 2</h2>
-<p>them dong nua.</p>
-<hr>
+<h1 style="color:blue;">This is a heading</h1>
+<p style="color:red;">This is a paragraph.</p>
 
-<h3>Tieu de 3</h3>
-<p>lai them dong nua.</p>
-<hr>
+<h1 style="background-color:powderblue;">This is a heading</h1>
+<p style="background-color:tomato;">This is a paragraph.</p>
 
-<pre>
-   My Bonnie lies over the ocean.
-
-   My Bonnie lies over the sea.
-
-   My Bonnie lies over the ocean.
-   
-   Oh, bring back my Bonnie to me.
-</pre>
+<p>I am normal</p>
+<p style="color:red;">I am red</p>
+<p style="color:blue;">I am blue</p>
+<p style="font-size:50px;">I am big</p>
 
 </body>
 </html>
+
