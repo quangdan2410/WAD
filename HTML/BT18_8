@@ -2,10 +2,13 @@
 <html>
 <body>
 
-<h1>Nguyen Vu</h1>
-<h2>Quang Dan</h2>
-<p>Msv</p>
-<p>2121051152</p>
+<h2> Dan</h2>
+
+<p> 2 cau lenh images va link</p>
+
+<a href="https://www.w3schools.com">Visit W3Schools</a>
+
+<img src="img_girl.jpg" width="500" height="600">
 
 </body>
 </html>
