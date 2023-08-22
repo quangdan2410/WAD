@@ -2,14 +2,12 @@
 <html>
 <body>
 
-<h2> Dan</h2>
-
-<p> 2 cau lenh images va link</p>
-
-<a href="https://www.w3schools.com">Visit W3Schools</a>
-
-<img src="img_girl.jpg" width="500" height="600">
+<h1>Bun Cha</h1>
+<h2>Pho Bo</h2>
+<h3>Lau thap cam</h3>
+<h4>Hai San</h4>
+<h5>Tom Cua</h5>
+<h6>Tran Duy Hung</h6>
 
 </body>
 </html>
-
